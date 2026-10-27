@@ -38,7 +38,6 @@ When making this project, I learned a lot about circular patterns and debossing 
 | [Print Legion Shipping Label](https://printlegion.hackclub.com) | 1 | Print Legion | $8.00 | $8.00 |
 | **Estimated total shipping** | 1 | — | — | **$23.01** |
 
-**Note:** The shipping and tax costs include the shipping for the Print Legion-printed case, as well as the tax and shipping for the acrylic.
 
 ## Project Gallery
 
